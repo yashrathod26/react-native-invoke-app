@@ -24,6 +24,6 @@
     "email": "vignesh@syncwithtech.org"
   },
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.72.2"
   }
 }
